@@ -1,0 +1,19 @@
+@font-face {
+	font-family: "CHANTELLI ANTIQUA"
+	src: url(../fonts/Chantelli_Antiqua-webfont.woff) format("woff"),
+	     url(../fonts/Chantelli_Antiqua-webfont.ttf) format("truetype");
+}
+
+
+
+p {
+	color: blue;
+	font-family: Arial;
+}
+
+h1 {
+	font-size: 24px;
+	color: purple;
+	font-family: "CHANTELLI ANTIQUA";	
+}
+
